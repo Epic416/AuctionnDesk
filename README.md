@@ -40,7 +40,7 @@
 | Windows | Windows 11 |
 | .NET | .NET 8.0, целевая платформа `net8.0-windows` |
 | Интерфейс | WPF, паттерн MVVM |
-| Microsoft SQL Server | SQL Server 2022 (проверено на экземпляре `DESKTOP-MTDRK23`) |
+| Microsoft SQL Server | SQL Server 2022 |
 | Microsoft.Data.SqlClient | 5.2.0 |
 | Среда разработки | Visual Studio Code + C# Dev Kit |
 | Другие зависимости | Нет |
@@ -79,7 +79,7 @@ auctiondesk/
 
 Получите исходный код из этого репозитория.
 
-Установите .NET 8.0 SDK: https://dotnet.microsoft.com/download/dotnet/8.0
+Установите .NET 8.0 SDK
 
 Установите Microsoft SQL Server (Express или LocalDB) и SQL Server Management Studio.
 
